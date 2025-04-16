@@ -1,22 +1,22 @@
 ## Hi there 👋
+
 ![Visitor Count](https://profile-counter.glitch.me/Lance1otzzz/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Christmas/github-readme-stats)
+### 👨‍💻 About Me
+- 🔭 I’m currently a **undergraduate student at Shanghai Jiao Tong University**.
+- 🌱 I’m interested in **graph algorithms** and learning **Rust**.
+- 💬 Ask me about **graph algorithms** or coding in Python and C++!
+- 📫 Reach me via **email** at [Lance1otzzzzzzz@gmail.com](mailto:Lance1otzzzzzzz@gmail.com).
 
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lance1otzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lance1otzzz's GitHub Stats" width="430" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lance1otzzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="430" />
+</div>
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+### 📌 Connect with Me
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:Lance1otzzzzzzz@gmail.com)
 
-<!--
-**Lance1otzzz/Lance1otzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ If you like my work, don't forget to star my repositories! 😊
